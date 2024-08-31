@@ -1,2 +1,7 @@
 # Book-Store
-- Backend CRUD - Backend Router - CORS Policy - MongoDB operations - Frontend CRUD  - Frontend Router 
+- Backend CRUD
+- - Backend Router
+  - - CORS Policy
+    - - MongoDB operations
+      - - Frontend CRUD
+        - - Frontend Router 
